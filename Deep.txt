@@ -1,4 +1,4 @@
-public class Hii{
+public class Deep{
 public static void main (string[] args){
 for (int i=1; i<2; i++){
 system.out.println("++i Good Morning...."+i);
